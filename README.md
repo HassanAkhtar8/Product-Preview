@@ -55,7 +55,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Hassan Akhtar]()
+- Website - [Hassan Akhtar](https://github.com/HassanAkhtar8/)
 
 
 **End**
