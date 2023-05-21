@@ -2,15 +2,14 @@
 
 ## Table of contents
 
--  [Overview](#overview)
--  [The challenge](#the-challenge)
--  [Links](#links)
--  [My process](#my-process)
--  [Built with](#built-with)
--  [What I learned](#what-i-learned)
--  [Continued development](#continued-development)
--  [Author](#author)
--  [Acknowledgments](#acknowledgments)
+-  [Overview](#Overview)
+-  [The challenge](#The-challenge)
+-  [Links](#Links)
+-  [My process](#My-process)
+-  [Built with](#Built-with)
+-  [What I learned](#What-I-learned)
+-  [Continued development](#Continued-development)
+-  [Author](#Author)
 
 ## Overview
 
@@ -55,7 +54,6 @@ Users should be able to:
 
 ## Author
 
+- Hassan Akhtar
 - Website - [Hassan Akhtar](https://github.com/HassanAkhtar8/)
 
-
-**End**
